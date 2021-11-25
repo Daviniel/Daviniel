@@ -5,4 +5,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviniel&show_icons=true&theme=radical)
 
-- [E-mail para contato](eng.daviniel@gmail.com)
