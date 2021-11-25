@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Daviniel
-- 👀 I’m interested...
-- 🌱 I’m currently...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Oiê ! Eu sou o Daviniel 😉
+### Hii ! I'm Daviniel
 
-<!---
-Daviniel/Daviniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviniel-nascimento-b598a2210/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviniel&show_icons=true&theme=radical)
+
+- [E-mail para contato](eng.daviniel@gmail.com)
