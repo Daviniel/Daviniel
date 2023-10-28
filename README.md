@@ -18,5 +18,7 @@ Eu sou desenvolvedor FrontEnd.
 | <a href="https://github.com/Daviniel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Daviniel&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Daviniel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviniel&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviniel-nascimento-b598a2210/)
-[![email](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=email&logoColor=white)](eng.daviniel@gmail.com)
+<div
+  <a href="https://www.linkedin.com/in/daviniel-nascimento-b598a2210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
