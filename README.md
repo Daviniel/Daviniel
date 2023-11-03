@@ -6,7 +6,7 @@ Eu sou desenvolvedor FrontEnd.
 
 - 📈 Sempre buscando conhecimento!
 
-- 💬 Atualmente estudando typescript...
+- 💬 Em busca para me tornar um Full Stack
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="html-5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
