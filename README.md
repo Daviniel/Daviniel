@@ -2,7 +2,7 @@
 
 <br />
 
-Eu sou desenvolvedor FullStack em busco de uma oportunidade.
+Eu sou desenvolvedor FullStack em busca de uma oportunidade.
 
 - 📈 Sempre buscando conhecimento!
 
